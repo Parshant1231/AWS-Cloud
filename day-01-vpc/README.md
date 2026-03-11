@@ -6,3 +6,7 @@
 3. Add a tags at the end 
 4. Last note the VPC id to use in anywhere (mainly used in TF) (vpc-0dc632201519d1ea4)
 
+# What DNS Resolution means? (Domain Name System)
+- process of converting a human-readable domain name into a machine -readable IP address so that computer can locate servers on internet.
+- DNS Resolution = Domain Name --> IP Address
++ Example: When you type google.com in browser, computer find the IP of Google's server (like 142.250.183.206).
