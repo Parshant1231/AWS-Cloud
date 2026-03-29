@@ -2,7 +2,7 @@
 
 A hands-on collection of AWS cloud tasks and configurations covering core services like VPC, EC2, S3, IAM, and more.
 
-## Repository Structure
+## Repository Structure 
 
 | Task   | Topic                          |
 |--------|--------------------------------|

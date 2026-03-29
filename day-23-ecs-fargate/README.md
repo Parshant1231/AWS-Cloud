@@ -1,6 +1,6 @@
 # ECR + ECS Fargate
 ⬡ Push a Docker image to ECR, run it serverlessly on ECS Fargate — no EC2 to manage.
-
+ 
 ## STEPS
 1. Create simple Node.js app → Dockerfile → build image locally (or use Day 9 nginx).
 2. ECR → Create repository cloudgrind-app. Follow push commands to tag & push image.
